@@ -12,6 +12,6 @@
     "license": "Eclipse",
     "repository" : {
       "type" : "git",
-      "url" : "https://github.com/wala/jsdelta.git"
+      "url" : "https://github.com/msridhar/jsdelta-example.git"
     }
 }
