@@ -1,0 +1,17 @@
+{
+    "name": "jsdelta-example",
+    "version": "0.0.1-dev",
+    "author": "Manu Sridharan <manu@sridharan.net>",
+    "description": "Example code for running jsdelta",
+    "dependencies" : {
+      "esprima": "1.2.2",
+      "estraverse": "1.5.1",
+      "jquery": "2.1.1",
+      "jsdelta": "0.2.0"
+    },
+    "license": "Eclipse",
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/wala/jsdelta.git"
+    }
+}
